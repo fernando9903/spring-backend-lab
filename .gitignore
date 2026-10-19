@@ -38,3 +38,4 @@ Desktop.ini
 # Spring local files if generated
 application-local.properties
 application-local.yml
+/.metadata/
